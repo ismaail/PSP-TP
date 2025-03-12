@@ -6,5 +6,5 @@ uses(
 )
     ->in('Feature');
 
-uses(Tests\TestCase::class)
-    ->in('Unit', 'Architecture');
+/*uses(Tests\TestCase::class)
+    ->in('Unit', 'Architecture');*/
